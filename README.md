@@ -40,7 +40,7 @@ InventoryManagementSystem/
 
 1.Clone the repository
 
-git clone https://github.com/your-username/inventory-management-system.git
+git clone https://github.com/dharshit2507/inventory-management-system-Java.git
 
 2.Open the project in IntelliJ IDEA / Eclipse / VS Code
 3.Create a MySQL database named:
